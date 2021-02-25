@@ -1,0 +1,13 @@
+    table{
+    border: 1px solid green;
+    border-collapse: collapse;
+    width: 70%;
+    height: 70%;   
+    text-align: center;}
+    th{border: 1px solid orangered;}
+    td{border: 1px solid orangered;}
+    tr:first-child{
+        background-color: orange;    }
+    tr:nth-child(2){
+        background-color: rgb(245, 202, 121);
+    }
