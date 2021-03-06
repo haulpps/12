@@ -1,0 +1,40 @@
+.anhd{
+    font-variant: normal;
+    float: left;
+    
+    margin: 5px;
+    margin-left: 10px;
+    width: 30%;
+
+}
+.sign{
+    margin-top: 50px;
+    margin-left: 0px;
+    text-align: left;
+    width: 90%;
+    display: block;
+    
+    
+}
+.giad{
+    float: right;
+    width: 60%;
+    margin-top: 100px;
+    margin-left: 0px;
+    text-align: center;
+
+}
+.giagoc{
+    color: gray;    
+    font-size: large;
+}
+.giamoi{
+    
+    color: orange;
+    font-size:xx-large;
+    font-weight: 900;
+    
+}
+.uudai{
+    margin-top: 10px;
+}
